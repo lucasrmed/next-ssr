@@ -1,6 +1,3 @@
-![](thumbnail.png)
-
-![](https://img.shields.io/github/license/alura-cursos/android-com-kotlin-personalizando-ui)
 
 # Título do Curso: Next.js: estratégias de componentes Server-Side
 
