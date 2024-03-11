@@ -1,8 +1,5 @@
-![](thumbnail.png)
 
-![](https://img.shields.io/github/license/alura-cursos/android-com-kotlin-personalizando-ui)
-
-# Título do Curso: Next.js: estratégias de componentes Server-Side
+# Next.js: estratégias de componentes Server-Side
 
 Curso prático de Next.js focado em Server-Side Rendering (SSR) e desenvolvimento de aplicativos web modernos.
 
