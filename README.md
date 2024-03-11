@@ -4,6 +4,8 @@
 
 # Título do Curso: Next.js: estratégias de componentes Server-Side
 
+Curso prático de Next.js focado em Server-Side Rendering (SSR) e desenvolvimento de aplicativos web modernos.
+
 ## 🔨 Funcionalidades do Projeto
 
 O curso abrange o desenvolvimento de um blog dinâmico com funcionalidades como:
@@ -45,3 +47,4 @@ Após baixar o projeto, você pode abrir com seu editor de código preferido. Si
 
 ## 📚 Mais Informações do Curso
 
+Interessado em aprofundar seus conhecimentos em Next.js e SSR? [Acesse o curso]() que desenvolve este projeto desde o início!
