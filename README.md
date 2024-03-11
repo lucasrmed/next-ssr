@@ -1,5 +1,5 @@
 
-# Título do Curso: Next.js: estratégias de componentes Server-Side
+# Next.js: estratégias de componentes Server-Side
 
 ## 🔨 Funcionalidades do Projeto
 
